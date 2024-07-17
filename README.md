@@ -1,10 +1,10 @@
-# GroupDelta Backend
+# Recipe Sharing Backend
 
 This repository contains the backend code for the GroupDelta project.
 
 ## Getting Started
 
-To get started with this backend project, follow the instructions below.
+To get started with this backend project, you can just follow the instructions below.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ Make sure you have the following installed on your system:
     npm start
     ```
 
-2. The server should be running on `http://localhost:5000` (or the port specified in your configuration).
+2. The server should run on `http://localhost:3030` (or the port specified in your configuration).
 
 ### Environment Variables
 
